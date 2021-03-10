@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "denuncys": {
+      "hosting": {
+        "app": [
+          "denuncys"
+        ]
+      }
+    }
+  }
+}
